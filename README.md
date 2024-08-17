@@ -1,2 +1,2 @@
 # curso-react-intro-main
-Curso
+Seguir el curso
