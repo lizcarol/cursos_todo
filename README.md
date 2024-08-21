@@ -1,2 +1,1 @@
-# curso-react-intro-main
-Seguir el curso
+Aprender a crear un proyecto en react
